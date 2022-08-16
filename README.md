@@ -9,7 +9,7 @@
 
 
 <p align="center">
-  <img src="https://telegra.ph/file/cbe826936d4de9ec1838a.jpg">
+  <img src="https://te.legra.ph/file/be8f13bf20ec617dbee1a.jpg">
 </p>
 
 👩‍💻 ALBY-Userbot adalah userbot Telegram modular yang berjalan di Python3 dengan database sqlalchemy.
