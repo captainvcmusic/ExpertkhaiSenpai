@@ -1,4 +1,4 @@
-<h1 align="center">ᴀʟʙʏ ᴜꜱᴇʀʙᴏᴛ<img src="./resources/extras/GeezFire.gif" width="20px"></h1>
+<h1 align="center">KHAI USERBOT<img src="./resources/extras/GeezFire.gif" width="20px"></h1>
 
 <a href="https://github.com/PunyaAlby/ALBY-Userbot/commits"> <img src="https://img.shields.io/github/last-commit/PunyaAlby/ALBY-Userbot?color=red&logo=github&logoColor=blue&style=for-the-badge" /></a>
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.png?v=103)](https://github.com/PunyaAlby/ALBY-Userbot)
